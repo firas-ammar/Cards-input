@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cards-input/static/css/main.fb73b75a.chunk.css",
+    "main.js": "/Cards-input/static/js/main.4f02e50a.chunk.js",
+    "main.js.map": "/Cards-input/static/js/main.4f02e50a.chunk.js.map",
+    "runtime~main.js": "/Cards-input/static/js/runtime~main.e91d9be5.js",
+    "runtime~main.js.map": "/Cards-input/static/js/runtime~main.e91d9be5.js.map",
+    "static/js/2.dfafeda7.chunk.js": "/Cards-input/static/js/2.dfafeda7.chunk.js",
+    "static/js/2.dfafeda7.chunk.js.map": "/Cards-input/static/js/2.dfafeda7.chunk.js.map",
+    "index.html": "/Cards-input/index.html",
+    "precache-manifest.ddbb09adc05a688a3a3f3e5aa3fd6175.js": "/Cards-input/precache-manifest.ddbb09adc05a688a3a3f3e5aa3fd6175.js",
+    "service-worker.js": "/Cards-input/service-worker.js",
+    "static/css/main.fb73b75a.chunk.css.map": "/Cards-input/static/css/main.fb73b75a.chunk.css.map",
+    "static/media/puce.png": "/Cards-input/static/media/puce.7041a777.png",
+    "static/media/visa.png": "/Cards-input/static/media/visa.7ffd65fe.png"
+  }
+}
